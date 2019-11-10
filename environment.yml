@@ -1,0 +1,23 @@
+name: pycourse
+channels:
+- anaconda
+- conda-forge
+- pyviz
+dependencies:
+- python=3
+- pandas
+- matplotlib
+- notebook
+- xlrd
+- bokeh
+- holoviews
+- jupyter_contrib_nbextensions
+- scipy
+- nbconvert
+- hvplot
+- scikit-learn
+- tqdm
+- nb_conda
+- nb_conda_kernels
+- openpyxl
+- pylint
