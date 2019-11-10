@@ -1,11 +1,12 @@
-Python Tutorial INFN Alghero school 2019
-========================================
+Python Tutorial 
+===============
 
-#### Geant4 Course at the 16th Seminar on Software for Nuclear, Sub-nuclear and Applied Physics, Porto Conte, Alghero (Italy), 26-31 May 2019.
-andrea.dotti@gmail.com
-https://agenda.infn.it/event/17240/
+Material for a short hands-on Python course, based on the course Andrea Dotti (andrea.dotti@gmail.com) gave at the 16th Seminar on Software for Nuclear, Sub-nuclear and Applied Physics, Porto Conte, Alghero (Italy), 26-31 May 2019.
 
-This project contains the code, slides and material presented for the python course.
+Ths material has been used at
+1.  INFN Alghero school 2019
+2.  INFN Course at Perugia 2019
+
 
 ## Syllabus
  
