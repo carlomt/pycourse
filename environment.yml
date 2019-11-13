@@ -21,3 +21,4 @@ dependencies:
 - nb_conda_kernels
 - openpyxl
 - pylint
+- tensorflow
