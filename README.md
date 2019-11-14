@@ -57,6 +57,7 @@ conda env create -f environment.yml
 conda activate pycourse
 #Post-installation setup, to do only once
 . post-install.sh
+#Use .\post-install.ps1 on Windows 10 PowerShell
 ```
 
 #### Structure of the project
