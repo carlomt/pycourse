@@ -62,7 +62,12 @@ The project contains the following directories:
 Exercises are in the `Notebooks` directory, solutions are included. Exercise 06 is optional and instead of exercises is a step-by-step tutorial to neural networks.
 
  1. `00_notebook_tutorial.ipynb` Tutorial for the use of jupyter notebooks
- 2. 
+ 2. `Exercise-01.ipynb` Python pandas, data analysis example (Facebook data)
+ 3. `Exercise-02.ipynb` Statistical modeling (Predicitve Maintenance)
+ 4. `Exercise-03.ipynb` Linear Regressor, intro to NN
+ 5. `Exercise-04.ipynb` Logistic Regressor, intro to NN
+ 6. `Exercise-05.py` (not a notebook) pytest
+ 
 
 
  
