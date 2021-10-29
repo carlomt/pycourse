@@ -67,7 +67,7 @@ Exercises are in the `Notebooks` directory, solutions are included. Exercise 06 
  4. `Exercise-03.ipynb` Linear Regressor, intro to NN
  5. `Exercise-04.ipynb` Logistic Regressor, intro to NN
  6. `Exercise-05.py` (not a notebook) pytest
- 
+ 7. `NN-byHand.ibynb` Build a one-layer neural network from scratch
 
 
  
